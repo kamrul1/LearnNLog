@@ -1,6 +1,6 @@
 using System;
 
-namespace AccountOwnerServer
+namespace AcountOwnerService
 {
     public class WeatherForecast
     {
